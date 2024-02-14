@@ -1,0 +1,158 @@
+# Translation of Themes - Travel Voyage in Italian
+# This file is distributed under the same license as the Themes - Travel Voyage package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-18 18:44:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: it\n"
+"Project-Id-Version: Themes - Travel Voyage\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Travel Voyage"
+msgstr "Travel Voyage"
+
+#: functions.php:773
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:772
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:771
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:360
+msgid "Primary color of the theme."
+msgstr "Colore principale del tema."
+
+#: functions.php:359
+msgid "Primary Color"
+msgstr "Colore principale"
+
+#: functions.php:268
+msgid "Change the font size of your site."
+msgstr "Cambia la dimensione del font del tuo sito web."
+
+#: functions.php:245
+msgid "Secondary font of the site."
+msgstr "Font secondario del sito web."
+
+#: functions.php:244
+msgid "Secondary Font"
+msgstr "Font secondario"
+
+#: functions.php:223
+msgid "Primary font of the site."
+msgstr "Font principale del sito web."
+
+#: functions.php:222
+msgid "Primary Font"
+msgstr "Font principale"
+
+#: functions.php:202
+msgid "Typography"
+msgstr "Tipografia"
+
+#: functions.php:188
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Personalizza la tipografia, l'immagine dell'header e l'immagine di sfondo"
+
+#: functions.php:187
+msgid "Appearance Settings"
+msgstr "Impostazioni Aspetto"
+
+#: functions.php:674
+msgid "https://wordpress.org/"
+msgstr "https://it.wordpress.org/"
+
+#: functions.php:674
+msgid " Powered by %s. "
+msgstr " Powered by %s. "
+
+#: functions.php:673
+msgid "Rara Themes"
+msgstr "Rara Themes"
+
+#: functions.php:457
+msgid "Read More"
+msgstr "Leggi tutto "
+
+#: functions.php:456
+msgid "Find great adventure holidays and activities around the planet."
+msgstr "Trova vacanze stupende e avventure in tutto il mondo."
+
+#: functions.php:455
+msgid "Find Your Best Holiday"
+msgstr "Scopri la tua migliore vacanza"
+
+#: functions.php:267
+msgid "Font Size"
+msgstr "Dimensione del font"
+
+#: functions.php:672
+msgid " Travel Voyage | Developed By "
+msgstr " Travel Voyage | Sviluppato da "
+
+#: functions.php:172
+msgid "Choose the layout for the homepage of your site."
+msgstr "Scegli il layout della homepage del tuo sito web."
+
+#: functions.php:152 functions.php:171
+msgid "Homepage Layout"
+msgstr "Layout dell'homepage"
+
+#: functions.php:139
+msgid "Choose the layout for the slider for your site."
+msgstr "Scegli il layout dello slider del tuo sito web."
+
+#: functions.php:52
+msgid "Information Links"
+msgstr "Link informativi"
+
+#: functions.php:68
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Link alla documentazione: %1$sfai clic qui.%2$s"
+
+#: functions.php:66
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Link alla demo: %1$sfai clic qui.%2$s"
+
+#: functions.php:85 functions.php:104
+msgid "Header Layout"
+msgstr "Layout dell'header"
+
+#: functions.php:105
+msgid "Choose the layout of the header for your site."
+msgstr "Scegli il layout dell'header del tuo sito web."
+
+#: functions.php:119 functions.php:138
+msgid "Slider Layout"
+msgstr "Layout dello slider"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://rarathemes.com/wordpress-themes/travel-voyage/"
+msgstr "https://rarathemes.com/wordpress-themes/travel-voyage/"
